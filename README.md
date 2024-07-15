@@ -3,6 +3,10 @@
 ## Overview
 This Python script demonstrates various methods for working with data stored in CSV files. It covers techniques using standard file methods, the csv library, and the pandas library. It includes examples of reading CSV files, extracting specific data, performing calculations, and writing data to new CSV files.
 
+![Uploading weather.JPG…]()
+
+
+
 ## Prerequisites
 - Python 3.x
 - pandas (`pip install pandas`)
